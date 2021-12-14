@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SleeplessCoder09
 - 👀 I’m interested in C++ and python programming and I am looking for work in AI and ML.
 - 🌱 I’m currently learning C# for My Unity Projects.
-- 💞️ I’m looking to collaborate on anything, I just want to learn many things as possible.
+- 💞️ I'm a rookie and I want to learning more about application-based and web-based development.
 - 📫 How to reach me ...
 
 <!---
